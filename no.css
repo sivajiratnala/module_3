@@ -1,0 +1,70 @@
+.pr
+{
+    text-align: center;
+}
+.cr
+{
+    font-size: 30px;
+}
+.ck
+{
+    padding: 1%;
+   
+    background-color: #6f42c11c;
+    border : 1px solid #ccc;
+
+}
+p
+{
+    padding: 1%;
+    margin: 1%;
+}
+h3
+{
+    padding-left: 4%;
+    margin: 1% auto 1% auto;
+}
+h4
+{   text-align: center;
+    margin: 4%;
+}
+.bd
+{
+    
+    border-color: black;
+}
+#gh
+{
+    margin: 2% auto 2% auto ;
+}
+#gh1
+{
+    margin: 2% auto 2% auto ;
+}
+#gh2
+{
+    margin: 2% auto 2% auto ;
+}
+.fg
+{
+    background-color: #ccc;
+}
+
+
+.nav-item
+{
+    background-color: white;
+    border-bottom: 1px solid #6f42c11c;
+}
+.navbar
+{
+    padding: 0 0 0.2rem 0;
+}
+body
+{
+    background-color: #007bff0d;
+}
+#df
+{
+    padding-left:4% ;
+}
